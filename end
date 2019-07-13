@@ -1,0 +1,42 @@
+[33mcommit 2e557a8c3563177fadc20ed72ed0a602acae37c0[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 095804c 13254b1
+Author: HO <549051806@qq.com>
+Date:   Fri Jul 12 17:15:49 2019 +0800
+
+    confict fixed
+
+[33mcommit 095804cce39f59fe731c005be4edfd4f2c99828f[m
+Author: HO <549051806@qq.com>
+Date:   Fri Jul 12 17:12:10 2019 +0800
+
+    分支master添加内容99999
+
+[33mcommit 13254b13aa3f94269508417424879cffd2e70a6e[m[33m ([m[1;32mfenzhi1[m[33m)[m
+Author: HO <549051806@qq.com>
+Date:   Fri Jul 12 17:11:02 2019 +0800
+
+    分支1添加内容88888
+
+[33mcommit 9d59806441a05aaf5d0868f2c81155e53e223bf8[m
+Author: HO <549051806@qq.com>
+Date:   Fri Jul 12 16:42:13 2019 +0800
+
+    dev分支上增加内容77777
+
+[33mcommit 3e94b43d5f7efdc7622b0deb61c8bc34c615eb96[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: HO <549051806@qq.com>
+Date:   Fri Jul 12 14:13:32 2019 +0800
+
+    添加test.txt
+
+[33mcommit 3cfe716b33583d3e558d79e899f4766ee120a840[m
+Author: HO <549051806@qq.com>
+Date:   Thu Jul 11 17:44:34 2019 +0800
+
+    文件修改为2222
+
+[33mcommit 5abc924e92642af6d1817fbdf6fcc7aba06946f9[m
+Author: HO <549051806@qq.com>
+Date:   Thu Jul 11 17:21:16 2019 +0800
+
+    readme.txt 提交
